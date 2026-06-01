@@ -77,7 +77,7 @@ def main():
     parser.add_argument("--frames", type=str, default=None,
                         help="Comma-separated frame indices")
     parser.add_argument("--save_dir", type=str,
-                        default="/root/occsafe_vla/artifacts/")
+                        default="./artifacts/")
     args = parser.parse_args()
 
     if args.occ_file:

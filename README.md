@@ -64,7 +64,7 @@ We conduct a systematic 2x2 factorial study of auxiliary spatial supervision dur
 
 ```bash
 # Clone repository
-git clone https://github.com/anonymous-nlp-2026/occsafe_vla.git
+git clone https://anonymous.4open.science/r/occsafe_vla-F25F/
 cd occsafe_vla
 
 # Install package and dependencies

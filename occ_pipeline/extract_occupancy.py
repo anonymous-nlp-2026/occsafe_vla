@@ -161,7 +161,7 @@ def main():
     parser.add_argument("--task_suite_name", type=str, default="libero_spatial")
     parser.add_argument("--task_id", type=int, default=None)
     parser.add_argument("--all", action="store_true")
-    parser.add_argument("--output_dir", type=str, default="/root/occsafe_vla/occ_data/")
+    parser.add_argument("--output_dir", type=str, default="./occ_data/")
     parser.add_argument("--data_dir", type=str, default=None)
     parser.add_argument("--max_demos", type=int, default=None)
     parser.add_argument("--explore_only", action="store_true")

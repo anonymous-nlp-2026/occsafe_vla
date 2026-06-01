@@ -14,9 +14,8 @@ Collision detection follows the SafeLIBERO paper:
   as having a collision.
 
 Usage:
-  cd /root/occsafe_vla/openvla-oft
   MUJOCO_GL=egl python vla-scripts/evaluate_safelibero.py \
-      --pretrained_checkpoint /root/autodl-tmp/checkpoints/vanilla_s0 \
+      --pretrained_checkpoint /path/to/checkpoints/vanilla_s0 \
       --task_suite_name libero_spatial \
       --num_rollouts 20
 

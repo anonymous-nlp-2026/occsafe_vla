@@ -15,8 +15,8 @@ def main():
     parser.add_argument("--occ_dir", type=str, default=None)
     args = parser.parse_args()
     suite = args.task_suite_name
-    libero_dir = args.libero_dir or f"/root/autodl-tmp/libero_datasets/{suite}"
-    occ_dir = args.occ_dir or f"/root/occsafe_vla/occ_data/{suite}"
+    libero_dir = args.libero_dir or f"./data/libero_datasets/{suite}"
+    occ_dir = args.occ_dir or f"./occ_data/{suite}"
     output = os.path.join(occ_dir, "occ_index.json")
 
     index = {}

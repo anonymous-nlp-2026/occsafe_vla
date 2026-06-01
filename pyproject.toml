@@ -66,8 +66,8 @@ dev = [
 ]
 
 [project.urls]
-homepage = "https://github.com/anonymous-nlp-2026/occsafe_vla"
-repository = "https://github.com/anonymous-nlp-2026/occsafe_vla"
+homepage = "https://anonymous.4open.science/r/occsafe_vla-F25F/"
+repository = "https://anonymous.4open.science/r/occsafe_vla-F25F/"
 
 [tool.setuptools.packages.find]
 where = ["."]

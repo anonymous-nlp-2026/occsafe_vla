@@ -173,7 +173,7 @@ def main():
                         help="Single task ID to process")
     parser.add_argument("--all", action="store_true",
                         help="Process all tasks")
-    parser.add_argument("--output_dir", type=str, default="/root/occsafe_vla/depth_data/",
+    parser.add_argument("--output_dir", type=str, default="./depth_data/",
                         help="Output directory for depth HDF5 files")
     parser.add_argument("--data_dir", type=str, default=None,
                         help="Override demo data directory")
