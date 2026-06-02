@@ -64,7 +64,7 @@ We conduct a systematic 2x2 factorial study of auxiliary spatial supervision dur
 
 ```bash
 # Clone repository
-git clone https://anonymous.4open.science/r/occsafe_vla-F25F/
+git clone https://anonymous.4open.science/r/does-auxiliary-spatial-supervision-make-vision-language-action-models-safer-empirical-investigation-4205/
 cd occsafe_vla
 
 # Install package and dependencies
