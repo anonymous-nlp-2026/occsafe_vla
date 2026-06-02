@@ -1,6 +1,6 @@
-# OccSafe-VLA: Does Auxiliary Spatial Supervision Make Vision-Language-Action Models Safer?
+# Does Auxiliary Spatial Supervision Make Vision-Language-Action Models Safer? An Empirical Investigation
 
-**A Factorial Analysis** | CoRL 2026 Submission
+CoRL 2026 Submission
 
 ## Overview
 
